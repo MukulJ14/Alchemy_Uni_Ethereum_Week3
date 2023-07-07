@@ -1,4 +1,7 @@
-We have build our very own Ethereum Block Explorer!
+# Ethereum Block Explorer
+
+
+We have build our very own **Ethereum Block Explorer!**
 
 Special Thanks to @alchemy for the wonderful guide
 
